@@ -10,9 +10,9 @@ Welcome to the IBM Data Science GH Repository for Northwestern Engineering's MA 
 
 
 
-![watson|100x100](logos/watson-logo.jpg = 100x100) 
+![watson|100x100](logos/watson-logo.jpg) 
 
-![northwestern-eng|100x100](logos/whole_brain_northwestern.jpg =100x100)
+![northwestern-eng|100x100](logos/whole_brain_northwestern.jpg)
 
 
 
