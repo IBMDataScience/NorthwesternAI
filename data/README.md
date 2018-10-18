@@ -5,7 +5,7 @@ This folder contains links to data we'll use in the presentation and for some of
 
 ### Bank Marketing 
 
-	* [bank.csv](bank.csv)
+[bank.csv](bank.csv) 
 
 We will use the dataset from UCI repository for Bank Marketing Data Set.
 
